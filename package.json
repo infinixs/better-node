@@ -1,0 +1,25 @@
+{
+  "name": "infinix-bnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "commander": "^11.1.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.8",
+    "node-printer": "^1.0.4",
+    "os": "^0.1.2",
+    "pkg": "^5.8.1",
+    "print": "^1.2.0",
+    "readline-sync": "^1.4.10",
+    "url": "^0.11.3"
+  }
+}
